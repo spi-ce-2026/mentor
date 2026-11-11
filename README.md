@@ -2,7 +2,7 @@
 
 App do mentor da plataforma UberHub Mentorias, em React Native (Expo SDK 57). Este repositório é o *starter*: o login e a navegação base estão prontos, e as telas de cada funcionalidade ficam para a equipe. O backend já está no ar; aqui só tem o app.
 
-Pacote Android: `com.professorangoti.mentorapp`. Os outros apps da plataforma são o [app do mentorado](https://github.com/mentoria-iftm/mentorado) e o [app do administrador](https://github.com/mentoria-iftm/administrador).
+Pacote Android: `com.professorangoti.mentorapp`. Os outros apps da plataforma são o [app do mentorado](https://github.com/spi-ce-2026/mentorado) e o [app do administrador](https://github.com/spi-ce-2026/administrador).
 
 ## O que já vem pronto
 
