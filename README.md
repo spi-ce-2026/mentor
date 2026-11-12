@@ -24,7 +24,7 @@ A implementar: o hook `useMentorProfile`, UC10 e UC11 criar o perfil, UC12 atual
 
 ```bash
 npm ci
-cp .env.example .env                # preencha com os valores fornecidos pelo professor
+copy .env.example .env                # preencha com os valores fornecidos pelo professor
 npx expo prebuild -p android --clean
 npx expo run:android
 ```
